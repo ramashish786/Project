@@ -1,3 +1,6 @@
-Click on each file to see the finding , conclusion and graphs
+## Project 
 
-for zip files , download the folder unzip it and than run.
+### Analysis on covid data [link] (https://github.com/ramashish786/Project/blob/main/Analysis%20on%20covid%20data.ipynb)
+
+In this I have found how many people died , how many people have been vaccinated and so on.
+
