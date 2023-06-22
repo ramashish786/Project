@@ -2,9 +2,6 @@
 
 ## Project 
 
-* ### AB testing 
-As name suggest I have performed AB here.
-
 * ### Analysis on covid data 
 In this I have found how many people died , how many people have been vaccinated and so on.
 
