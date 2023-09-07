@@ -19,9 +19,9 @@ Following are some dashboards images that I have made.
 
 ![Sales dashboard](https://github.com/ramashish786/Project/assets/55800734/d2d004cb-9b6f-4164-9bcd-6c68b3d0e82f)
 
-![dashboard1](https://github.com/ramashish786/Project/assets/55800734/4a154748-7054-40bd-b332-9745425b6c9a)
-
 ![dashboard2](https://github.com/ramashish786/Project/assets/55800734/9c7a24a7-b950-4a1b-a4c2-09be385a4afe)
+
+![dashboard1](https://github.com/ramashish786/Project/assets/55800734/4a154748-7054-40bd-b332-9745425b6c9a)
 
 ![dashboard_amazon](https://github.com/ramashish786/Project/assets/55800734/c2e9912b-b5b4-44a9-a779-46fd5e4c6a8d)
 
