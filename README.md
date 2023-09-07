@@ -15,7 +15,9 @@ Here I performed analsys on electronis devices price
 Here I have explored data and made a model to predict winning party
 
 
-Following are some dashboards image that I have made.
+Following are some dashboards images that I have made.
+
+![Sales dashboard](https://github.com/ramashish786/Project/assets/55800734/d2d004cb-9b6f-4164-9bcd-6c68b3d0e82f)
 
 ![dashboard1](https://github.com/ramashish786/Project/assets/55800734/4a154748-7054-40bd-b332-9745425b6c9a)
 
@@ -27,12 +29,10 @@ Following are some dashboards image that I have made.
 
 ![dashboard4](https://github.com/ramashish786/Project/assets/55800734/85f83c7b-b05b-4210-8e37-5053c14f4228)
 
-### Dashboards made using Power BI 
-
 ![dashboard](https://github.com/ramashish786/Project/assets/55800734/0a8a7030-6912-4d6c-9011-6974a3f592c4)
 
-#### Interactive Sales Dashboard 
 
-![Sales dashboard](https://github.com/ramashish786/Project/assets/55800734/e3a828a6-028d-4ea9-86bc-9676cd554b3a)
+
+
 
 
