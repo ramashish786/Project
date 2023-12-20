@@ -15,7 +15,7 @@ Here I performed analsys on electronis devices price
 Here I have explored data and made a model to predict winning party
 
 
-Following are some dashboards images that I have made.
+Following are some  them images of dashboards which I have made.
 
 ![Hotel Booking](https://github.com/ramashish786/Project/assets/55800734/bab7ae0d-0c39-4a50-8301-04fcc611f1a2)
 
