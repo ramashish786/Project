@@ -25,11 +25,9 @@ Following are some  them images of dashboards which I have made.
 
 ![dashboard1](https://github.com/ramashish786/Project/assets/55800734/4a154748-7054-40bd-b332-9745425b6c9a)
 
-![dashboard_amazon](https://github.com/ramashish786/Project/assets/55800734/c2e9912b-b5b4-44a9-a779-46fd5e4c6a8d)
-
 ![dashboard3](https://github.com/ramashish786/Project/assets/55800734/05097e0c-ad71-4d59-a370-86f8332a8c8e)
 
-![dashboard](https://github.com/ramashish786/Project/assets/55800734/0a8a7030-6912-4d6c-9011-6974a3f592c4)
+
 
 
 
