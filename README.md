@@ -3,19 +3,21 @@
 ## Project 
 
 * ### Analysis on covid data 
-In this I have found how many people died , how many people have been vaccinated and so on.
+In this, I have found how many people died, how many people have been vaccinated, and so on.
 
-* ### Customer Shoping habit 
-In this project I performed analsys on data collected from three malls found which segament of customer spend more money , which mall got most profit etc.
+* ### Customer Shopping habit 
+In this project, I performed analysis on data collected from three malls finding which segment of customers spent more money, which mall got the most profit etc.
 
 * ### electronics price 
-Here I performed analsys on electronis devices price
+Here I performed an analysis on the price of electronic devices.
 
 * ### county census and election census
-Here I have explored data and made a model to predict winning party
+Here I have explored data and made a model to predict the winning party
 
 
-Following are some  them images of dashboards which I have made.
+Following are some of the images of dashboards that I have made.
+
+![pop](https://github.com/user-attachments/assets/d0a6bf32-f07d-4c7f-8eac-df5a92007c02)
 
 ![Hotel Booking](https://github.com/ramashish786/Project/assets/55800734/bab7ae0d-0c39-4a50-8301-04fcc611f1a2)
 
