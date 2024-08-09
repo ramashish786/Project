@@ -17,7 +17,8 @@ Here I have explored data and made a model to predict the winning party
 
 Following are some of the images of dashboards that I have made.
 
-![pop](https://github.com/user-attachments/assets/d0a6bf32-f07d-4c7f-8eac-df5a92007c02)
+
+![dashboard 1](https://github.com/user-attachments/assets/76af3910-f587-4ada-a95d-c99d93d85749)
 
 ![Hotel Booking](https://github.com/ramashish786/Project/assets/55800734/bab7ae0d-0c39-4a50-8301-04fcc611f1a2)
 
