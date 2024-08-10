@@ -2,11 +2,11 @@
 
 ## Project 
 
-* ### Analysis on covid data 
-In this, I have found how many people died, how many people have been vaccinated, and so on.
+* ### Analysis of covid data 
+In this, I analyzed data to find the number of people who died, were vaccinated, are serious, and have been cured.
 
 * ### Customer Shopping habit 
-In this project, I performed analysis on data collected from three malls finding which segment of customers spent more money, which mall got the most profit etc.
+In this project, I analyzed data collected from three different malls and found which segment of customers spent more money, which mall got the most profit, etc.
 
 * ### electronics price 
 Here I performed an analysis on the price of electronic devices.
