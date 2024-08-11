@@ -17,9 +17,9 @@ Here I have explored data and made a model to predict the winning party
 
 Following are some of the images of dashboards that I have made.
 
-![dash 3](https://github.com/user-attachments/assets/b8885b4f-c9fc-4aea-9a47-0cafef4f849c)
+![dash 3](https://github.com/user-attachments/assets/608ebbd4-3cb7-4967-b24d-7369231136a5)
 
-![dash 2](https://github.com/user-attachments/assets/35f57fdd-e31d-46fd-bb0a-9ce8b3b71e53)
+![dash 2](https://github.com/user-attachments/assets/2c568366-3463-469a-99a3-97148832c3e1)
 
 ![dashboard 1](https://github.com/user-attachments/assets/76af3910-f587-4ada-a95d-c99d93d85749)
 
