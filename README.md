@@ -19,7 +19,8 @@ Following are some of the images of dashboards that I have made.
 
 ### Hotel Management Dashboard
 
-![dash 2](https://github.com/user-attachments/assets/fb773a32-58b5-4aa0-a16c-26b63dc2a87b)
+![dash 2](https://github.com/user-attachments/assets/606dae4e-59ed-482d-9d93-df14394ba78c)
+
 
 ![dash 4](https://github.com/user-attachments/assets/0de59379-7855-41bd-92ab-40147359bce7)
 
