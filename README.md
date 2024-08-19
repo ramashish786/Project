@@ -27,8 +27,6 @@ Following are some of the images of dashboards that I have made.
 
 ![dash 2](https://github.com/user-attachments/assets/2c568366-3463-469a-99a3-97148832c3e1)
 
-![dashboard 1](https://github.com/user-attachments/assets/76af3910-f587-4ada-a95d-c99d93d85749)
-
 ![Hotel Booking](https://github.com/ramashish786/Project/assets/55800734/bab7ae0d-0c39-4a50-8301-04fcc611f1a2)
 
 ![Sales dashboard](https://github.com/ramashish786/Project/assets/55800734/d2d004cb-9b6f-4164-9bcd-6c68b3d0e82f)
