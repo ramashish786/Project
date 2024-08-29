@@ -36,9 +36,7 @@ Following are some of the images of dashboards that I have made.
 
 ![dashboard2](https://github.com/ramashish786/Project/assets/55800734/9c7a24a7-b950-4a1b-a4c2-09be385a4afe)
 
-![dashboard1](https://github.com/ramashish786/Project/assets/55800734/4a154748-7054-40bd-b332-9745425b6c9a)
 
-![dashboard3](https://github.com/ramashish786/Project/assets/55800734/05097e0c-ad71-4d59-a370-86f8332a8c8e)
 
 
 
