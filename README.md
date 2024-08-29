@@ -23,14 +23,14 @@ Following are some of the images of dashboards that I have made.
 
 ![dash 2](https://github.com/user-attachments/assets/606dae4e-59ed-482d-9d93-df14394ba78c)
 
-
+### India Population Dashboard 
 ![dash 4](https://github.com/user-attachments/assets/0de59379-7855-41bd-92ab-40147359bce7)
 
 ![dash 3](https://github.com/user-attachments/assets/608ebbd4-3cb7-4967-b24d-7369231136a5)
 
 ![dash 2](https://github.com/user-attachments/assets/2c568366-3463-469a-99a3-97148832c3e1)
 
-![Hotel Booking](https://github.com/ramashish786/Project/assets/55800734/bab7ae0d-0c39-4a50-8301-04fcc611f1a2)
+### Sales Dashboard and Report
 
 ![Sales dashboard](https://github.com/ramashish786/Project/assets/55800734/d2d004cb-9b6f-4164-9bcd-6c68b3d0e82f)
 
