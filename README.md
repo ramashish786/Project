@@ -32,9 +32,17 @@ Following are some of the images of dashboards that I have made.
 
 ### Sales Dashboard and Report
 
-![Sales dashboard](https://github.com/ramashish786/Project/assets/55800734/d2d004cb-9b6f-4164-9bcd-6c68b3d0e82f)
+<img width="915" alt="sales 4" src="https://github.com/user-attachments/assets/1539f9fd-5732-4003-9b49-3d05a4f54bda">
 
-![dashboard2](https://github.com/ramashish786/Project/assets/55800734/9c7a24a7-b950-4a1b-a4c2-09be385a4afe)
+<img width="911" alt="sales 3" src="https://github.com/user-attachments/assets/224b986a-8380-4e54-8ee7-39cd576fad51">
+
+<img width="916" alt="sales 2" src="https://github.com/user-attachments/assets/a793569f-5686-4e13-a709-537c613f967c">
+
+<img width="916" alt="sales 1" src="https://github.com/user-attachments/assets/a7c92bb3-ae4c-47a3-a5de-9f708f38e0fb">
+
+
+
+
 
 
 
