@@ -32,7 +32,8 @@ Following are some of the images of dashboards that I have made.
 
 ### Sales Dashboard and Report
 
-<img width="915" alt="sales 4" src="https://github.com/user-attachments/assets/1539f9fd-5732-4003-9b49-3d05a4f54bda">
+
+<img width="916" alt="sales 4" src="https://github.com/user-attachments/assets/3cdcc849-c659-45ce-9713-c86f641b591a">
 
 <img width="911" alt="sales 3" src="https://github.com/user-attachments/assets/224b986a-8380-4e54-8ee7-39cd576fad51">
 
