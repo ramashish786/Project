@@ -21,14 +21,6 @@ Following are some of the images of dashboards that I have made.
 
 ![dashboard 1](https://github.com/user-attachments/assets/10ff7b91-e8a1-42d4-a9a8-5fbe1ef6f5ce)
 
-![dash 2](https://github.com/user-attachments/assets/606dae4e-59ed-482d-9d93-df14394ba78c)
-
-### India Population Dashboard 
-![dash 4](https://github.com/user-attachments/assets/0de59379-7855-41bd-92ab-40147359bce7)
-
-![dash 3](https://github.com/user-attachments/assets/608ebbd4-3cb7-4967-b24d-7369231136a5)
-
-![dash 2](https://github.com/user-attachments/assets/2c568366-3463-469a-99a3-97148832c3e1)
 
 ### Sales Dashboard and Report
 
