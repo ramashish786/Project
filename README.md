@@ -20,6 +20,7 @@ Following are some of the images of dashboards that I have made.
 ### Hotel Management Dashboard
 
 ![dashboard 1](https://github.com/user-attachments/assets/10ff7b91-e8a1-42d4-a9a8-5fbe1ef6f5ce)
+![dashboard 2](https://github.com/user-attachments/assets/3127ea24-5dde-4d15-a3ff-c05fd816466a)
 
 
 ### Sales Dashboard and Report
