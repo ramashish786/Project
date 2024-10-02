@@ -17,6 +17,11 @@ Here I have explored data and made a model to predict the winning party
 
 Following are some of the images of dashboards that I have made.
 
+### Healthcare Provider Dashboard
+![db 1](https://github.com/user-attachments/assets/ca38f6f5-5903-4888-86e9-b423c0922139)
+![db 2](https://github.com/user-attachments/assets/4647b170-9ed8-4d04-a1db-6221070962de)
+
+
 ### Hotel Management Dashboard
 
 ![dashboard 1](https://github.com/user-attachments/assets/10ff7b91-e8a1-42d4-a9a8-5fbe1ef6f5ce)
