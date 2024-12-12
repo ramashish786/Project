@@ -39,6 +39,9 @@ Following are some of the images of dashboards that I have made.
 
 <img width="916" alt="sales 1" src="https://github.com/user-attachments/assets/a7c92bb3-ae4c-47a3-a5de-9f708f38e0fb">
 
+### Sales Dashboard In Tableau
+
+![dashboard2](https://github.com/user-attachments/assets/6821294a-20aa-4b23-87a2-f39953151b01)
 
 
 
