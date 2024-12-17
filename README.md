@@ -16,6 +16,14 @@ Here I have explored data and made a model to predict the winning party
 
 
 Following are some of the images of dashboards that I have made.
+### Sales Dashboard With Tableau
+![db1](https://github.com/user-attachments/assets/e818e79d-7918-4a91-b4eb-5eaeb2442421)
+
+![db2](https://github.com/user-attachments/assets/d551da98-db41-42ea-8256-822000aae0e1)
+
+![db3](https://github.com/user-attachments/assets/3ea578fd-5ba4-4eea-87be-85c392d5d619)
+
+![db4](https://github.com/user-attachments/assets/eeb2274e-f372-4c5a-810b-47962fbff123)
 
 ### Healthcare Provider Dashboard
 ![db 1](https://github.com/user-attachments/assets/ca38f6f5-5903-4888-86e9-b423c0922139)
@@ -39,17 +47,8 @@ Following are some of the images of dashboards that I have made.
 
 <img width="916" alt="sales 1" src="https://github.com/user-attachments/assets/a7c92bb3-ae4c-47a3-a5de-9f708f38e0fb">
 
-### Sales Dashboard In Tableau
 
-![dashboard2](https://github.com/user-attachments/assets/6821294a-20aa-4b23-87a2-f39953151b01)
 
-![db1](https://github.com/user-attachments/assets/e818e79d-7918-4a91-b4eb-5eaeb2442421)
-
-![db2](https://github.com/user-attachments/assets/d551da98-db41-42ea-8256-822000aae0e1)
-
-![db3](https://github.com/user-attachments/assets/3ea578fd-5ba4-4eea-87be-85c392d5d619)
-
-![db4](https://github.com/user-attachments/assets/eeb2274e-f372-4c5a-810b-47962fbff123)
 
 
 
