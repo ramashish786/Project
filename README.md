@@ -15,7 +15,16 @@ Here I performed an analysis on the price of electronic devices.
 Here I have explored data and made a model to predict the winning party
 
 
+
+
+
 Following are some of the images of dashboards that I have made.
+
+## Finance Dashboard
+![saving](https://github.com/user-attachments/assets/139b77c1-7d2d-4085-acc5-ed5b39347a45)
+![inc](https://github.com/user-attachments/assets/8cde8f7e-a4eb-40c8-ae18-1ae1ba3ce53d)
+![exp](https://github.com/user-attachments/assets/6e225f15-f6a3-43ad-acdd-6a4987d0bd65)
+
 ### Sales Dashboard With Tableau
 ![db1](https://github.com/user-attachments/assets/e818e79d-7918-4a91-b4eb-5eaeb2442421)
 
