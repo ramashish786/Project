@@ -15,6 +15,13 @@ Here I performed an analysis on the price of electronic devices.
 Here I have explored data and made a model to predict the winning party
 
 
+## CRM Dashboard 
+![1](https://github.com/user-attachments/assets/5581ff9e-230d-4f9b-a75c-b3c483a4014d)
+![2](https://github.com/user-attachments/assets/2e288429-3d3c-4357-8d03-e76615ceca79)
+![3w](https://github.com/user-attachments/assets/159038c3-02f3-4604-a815-e416e471c002)
+![3m](https://github.com/user-attachments/assets/3913eeab-267f-4cea-a3f5-244419382cf0)
+![3d](https://github.com/user-attachments/assets/5dc9be7c-79d0-4ac0-9734-a1966275bad6)
+
 
 
 
