@@ -16,11 +16,12 @@ Here I have explored data and made a model to predict the winning party
 
 
 ## CRM Dashboard 
-![1](https://github.com/user-attachments/assets/5581ff9e-230d-4f9b-a75c-b3c483a4014d)
-![2](https://github.com/user-attachments/assets/2e288429-3d3c-4357-8d03-e76615ceca79)
-![3w](https://github.com/user-attachments/assets/159038c3-02f3-4604-a815-e416e471c002)
-![3m](https://github.com/user-attachments/assets/3913eeab-267f-4cea-a3f5-244419382cf0)
-![3d](https://github.com/user-attachments/assets/5dc9be7c-79d0-4ac0-9734-a1966275bad6)
+
+![1](https://github.com/user-attachments/assets/3b4c093b-80dc-4479-a622-4ffb4a7170f7)
+![2](https://github.com/user-attachments/assets/070f33f6-79cf-4290-b9f2-878065c25c1a)
+![3w](https://github.com/user-attachments/assets/b6fed454-0e7c-4fd8-969f-964bc7b79237)
+![3m](https://github.com/user-attachments/assets/01fb38bc-417b-4cd9-a2e1-83ac0df53180)
+![3d](https://github.com/user-attachments/assets/fdf05c65-6f97-499b-91db-4751bc42acba)
 
 
 
